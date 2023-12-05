@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ng-audio-recorder
+ */
+export * from './lib/ng-audio-recorder.service';
+export * from './lib/ng-audio-recorder.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWF1ZGlvLXJlY29yZGVyLWl2eS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsaUNBQWlDLENBQUM7QUFDaEQsY0FBYyxnQ0FBZ0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbmctYXVkaW8tcmVjb3JkZXJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1hdWRpby1yZWNvcmRlci5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLWF1ZGlvLXJlY29yZGVyLm1vZHVsZSc7XG4iXX0=
