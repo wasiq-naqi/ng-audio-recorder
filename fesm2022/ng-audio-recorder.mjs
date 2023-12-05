@@ -140,4 +140,4 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImpo
  */
 
 export { ErrorCase, NgAudioRecorderModule, NgAudioRecorderService, OutputFormat, RecorderState };
-//# sourceMappingURL=ng-audio-recorder-ivy.mjs.map
+//# sourceMappingURL=ng-audio-recorder.mjs.map

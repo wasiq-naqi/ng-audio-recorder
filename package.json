@@ -1,5 +1,5 @@
 {
-  "name": "ng-audio-recorder-ivy",
+  "name": "ng-audio-recorder",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
@@ -9,7 +9,7 @@
     "tslib": "^2.3.0"
   },
   "sideEffects": false,
-  "module": "fesm2022/ng-audio-recorder-ivy.mjs",
+  "module": "fesm2022/ng-audio-recorder.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -17,9 +17,9 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2022": "./esm2022/ng-audio-recorder-ivy.mjs",
-      "esm": "./esm2022/ng-audio-recorder-ivy.mjs",
-      "default": "./fesm2022/ng-audio-recorder-ivy.mjs"
+      "esm2022": "./esm2022/ng-audio-recorder.mjs",
+      "esm": "./esm2022/ng-audio-recorder.mjs",
+      "default": "./fesm2022/ng-audio-recorder.mjs"
     }
   }
 }
